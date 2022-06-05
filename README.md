@@ -1,0 +1,2 @@
+# chessboard
+zuri training task
